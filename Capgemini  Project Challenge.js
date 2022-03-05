@@ -1,4 +1,4 @@
-// # Questão 01
+//  Questão 01
 
 arr = [9, 2, 1, 4, 6]
 
@@ -9,7 +9,7 @@ const foundMedian = (arr) => {
 };
 console.log(foundMedian(arr));
 
-// # Questão 02
+//  Questão 02
 
 n = [1, 5, 3, 4, 2]
 

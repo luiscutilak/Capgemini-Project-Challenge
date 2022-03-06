@@ -25,19 +25,19 @@ const checkPair = (n) => {
 }
 console.log(checkPair(n));
 
-// Questão 03
+// # Questão 03
 
 let s = 'tenha um bom dia';
 
 const encode = () => {
 let str = s.replace(/ /g, '');
 const newArray = str.match(/.{1,4}/g);
-console.log(newArray);
 let array = [];
+
 for (let i = 0; i < newArray.length; i += 1) {
-   
    for (let j = 0; j < newArray[i].length; j += 1) {
-   if (!array[j]) array[j] = "";
+   
+    if (!array[j]) array[j] = "";
    array[j] += newArray[i][j];
  }
 }

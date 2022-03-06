@@ -11,13 +11,12 @@
 
 # 📂 Acesso ao projeto:
 
-Você pode acessar o código fonte do projeto inicial ou baixá-lo.
+Você pode acessar o código fonte do projeto inicial <a href="https://github.com/luiscutilak/Capgemini-Project-Challenge.git" target="_blank"> clicando aqui </a> ou baixá-lo.
 
 
 # 🛠️ Abrir e rodar o projeto:
 
-Após baixar o projeto, você pode abrir com o VisualStudioCode ou qualquer editor de código fonte. Para isso, na tela, clique em abrir e acesse o arquivo baixado.
-No código fonte é só rodar os códigos de sua preferência.
+Após baixar o projeto, você pode abrir com o VisualStudioCode ou qualquer editor de código fonte. Para isso, na tela, clique em abrir arquivo e acesse o arquivo baixado. Se estiver zipado não esqueça de extrair na sua pasta. No editor fonte é só rodar os códigos de sua preferência.
 
 
 
